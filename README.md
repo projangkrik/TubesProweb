@@ -4,7 +4,7 @@
 
 ![1](https://user-images.githubusercontent.com/38394714/40653216-0f56f65c-636d-11e8-9bed-65f4df297355.PNG)
 
-* Nyalakan Xammp 
+* Nyalakan Xampp 
 
 ![2](https://user-images.githubusercontent.com/38394714/40653298-4bf31c94-636d-11e8-9dba-d00f12a267f0.PNG)
 
