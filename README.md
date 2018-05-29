@@ -1,4 +1,4 @@
-# Panduan Penggunaan Project PenyewaanLapangan
+# Panduan Penggunaan Project Sport Area
 
 * Download file zip pada repository ini kemudian ekstrak dan buat folder "PenyewaanLapangan" di xammp/htdocs
 
