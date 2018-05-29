@@ -33,7 +33,7 @@
      css,
      javascript,
      Framework desain Bootstrap,
-     php
+     php, CRUD
    
    ![9](https://user-images.githubusercontent.com/38394714/40654023-a40f1822-636f-11e8-8a59-bc12a2d7d1f8.PNG)                       
      
